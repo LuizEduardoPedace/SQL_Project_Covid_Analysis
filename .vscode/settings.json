@@ -1,0 +1,23 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sql_course",
+            "database": "sql_course",
+            "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sql_project_covid",
+            "database": "sql_project_covid",
+            "username": "postgres"
+        }
+    ]
+}
