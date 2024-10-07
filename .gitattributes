@@ -1,0 +1,3 @@
+# Ensure SQL files are recognized by GitHub Linguist
+*.sql linguist-detectable=true
+*.sql linguist-vendored=false
